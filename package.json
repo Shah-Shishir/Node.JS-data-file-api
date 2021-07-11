@@ -1,7 +1,7 @@
 {
   "name": "data-file-server",
   "version": "1.0.0",
-  "description": "A Simple Node.JS API to generate random data and calculate data amount by percentage",
+  "description": "A Simple Node.JS API to generate random data and calculate data amount by percentage.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
