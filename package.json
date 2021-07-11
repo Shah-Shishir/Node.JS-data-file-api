@@ -1,0 +1,21 @@
+{
+  "name": "data-file-server",
+  "version": "1.0.0",
+  "description": "A Simple Node.JS API to generate random data and calculate data amount by percentage",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Shah Newaj Rabbi Shishir",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.10"
+  }
+}
